@@ -4,7 +4,9 @@ A program that involves loading the video and subtitles, and adjusting the timin
 ### Step 1
 bash
 pip install moviepy
+
 pip install pysrt
+
 ### Step 2
 Load the Video and Subtitles:
 Load the video using moviepy.
