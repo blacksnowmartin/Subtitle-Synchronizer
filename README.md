@@ -20,4 +20,4 @@ Export the Synchronized Subtitles:
 
 Save the modified subtitles to a new file.
 
-Blacksnow Martin 2024
+Blacksnow Martin 2024©
