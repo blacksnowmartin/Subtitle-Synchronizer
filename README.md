@@ -3,6 +3,7 @@ A program that involves loading the video and subtitles, and adjusting the timin
 ## To Install Required Libraries:
 ### Step 1
 bash
+
 pip install moviepy
 
 pip install pysrt
